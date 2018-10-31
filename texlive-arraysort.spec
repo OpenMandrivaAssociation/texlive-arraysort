@@ -6,7 +6,7 @@
 # catalog-version 1.0
 Name:		texlive-arraysort
 Version:	1.0
-Release:	9
+Release:	10
 Summary:	Sort arrays (or portions of them)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/arraysort
