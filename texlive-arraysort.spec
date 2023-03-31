@@ -1,6 +1,6 @@
 Name:		texlive-arraysort
 Version:	31576
-Release:	1
+Release:	2
 Summary:	Sort arrays (or portions of them)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/arraysort
